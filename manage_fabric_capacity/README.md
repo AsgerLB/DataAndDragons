@@ -15,16 +15,16 @@ With the following PowerShell scripts, you can do just that!
 
 ## Documentation
 
-### PS_FABRIC_CAPACITY_RESUME.ps1
+#### PS_FABRIC_CAPACITY_RESUME.ps1
 This PowerShell script, when executed, will attempt to resume the configured Fabric capacity.
 
-### PS_FABRIC_CAPACITY_PAUSE.ps1
+#### PS_FABRIC_CAPACITY_PAUSE.ps1
 This PowerShell script, when executed, will attempt to pause the configured Fabric capacity.
 
-### PS_FABRIC_CAPACITY_SCALE.ps1
+#### PS_FABRIC_CAPACITY_SCALE.ps1
 This script, when executed, will attempt to scale the configured Fabric capacity up or down to a predefined FSKU.
 
-### PS_FABRIC_CAPACITY_SACLE.ps1
+#### PS_FABRIC_CAPACITY_SACLE.ps1
 This script, when executed, will attempt to scale the configured Fabric capacity up or down based on user input. Alternatively, it can be modified to receive parameters during execution.
 
 -----------------------------------------------------------------------------------------------------
